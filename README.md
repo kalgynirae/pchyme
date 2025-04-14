@@ -8,5 +8,7 @@ know if you need any help getting it up and running!
 
 ## Demo sounds
 
-Samples of jingles produced with the six included instruments can be
-found here: [https://www.lumeh.org/media/pchyme-demo/]
+You can listen to [sample jingles] produced with each of the six
+included instruments.
+
+[sample jingles]: https://www.lumeh.org/media/pchyme-demo/
